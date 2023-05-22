@@ -15,7 +15,7 @@
 4- In this task 4, you will:
 
     ◊Create a file named "password-generator"  
-(use npm install generate-password : (https://www.npmjs.com/package/generate-password)
+    (use npm install generate-password : (https://www.npmjs.com/package/generate-password)
 
     ◊Create a function that generates random passwords and console.log() that password.
  
@@ -26,3 +26,4 @@
     ◊npm install nodemailer (https://www.w3schools.com/nodejs/nodejs_email.asp)
 
 Try to send your self email using this
+›ps: Don't forget to delete your personal information before uploading it to GitHub :) 
