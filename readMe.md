@@ -26,4 +26,4 @@
     ◊npm install nodemailer (https://www.w3schools.com/nodejs/nodejs_email.asp)
 
 Try to send your self email using this
-›ps: Don't forget to delete your personal information before uploading it to GitHub :) 
+•ps: Don't forget to delete your personal information before uploading it to GitHub :) 
